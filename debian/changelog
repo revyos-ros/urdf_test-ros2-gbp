@@ -1,0 +1,51 @@
+ros-foxy-urdf-test (2.0.0-1focal) focal; urgency=high
+
+  * ROS2 migration
+  * Contributors: Victor Lopez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 15 Jun 2021 22:00:00 -0000
+
+ros-foxy-urdf-test (1.0.4-1focal) focal; urgency=high
+
+  * Merge branch 'add-test-suffix' into 'master'
+    Add test suffix
+    See merge request qa/urdf_test!2
+  * Add test suffix
+  * Merge branch 'fix-package-dependency' into 'master'
+    Fix package dependencies
+    See merge request !1
+  * Fix package dependencies
+  * Contributors: Victor Lopez, davidfernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Tue, 11 Dec 2018 23:00:00 -0000
+
+ros-foxy-urdf-test (1.0.3-1focal) focal; urgency=high
+
+  * Rewrite in python for simplicity
+  * Fix dependencies
+  * Contributors: davidfernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Mon, 17 Jul 2017 22:00:00 -0000
+
+ros-foxy-urdf-test (1.0.2-1focal) focal; urgency=high
+
+  * Fix build rule to match install rule
+  * Contributors: davidfernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+ros-foxy-urdf-test (1.0.1-1focal) focal; urgency=high
+
+  * Fix installation rules
+  * Contributors: davidfernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+ros-foxy-urdf-test (1.0.0-1focal) focal; urgency=high
+
+  * Initial import
+  * Contributors: davidfernandez
+
+ -- Victor Lopez <victor.lopez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+
