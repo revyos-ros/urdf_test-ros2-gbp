@@ -1,3 +1,26 @@
+## urdf_test (humble) - 2.0.1-1
+
+The packages in the `urdf_test` repository were released into the `humble` distro by running `/usr/bin/bloom-release --new-track --rosdistro humble --track humble urdf_test` on `Thu, 20 Oct 2022 11:25:29 -0000`
+
+The `urdf_test` package was released.
+
+Version of package(s) in repository `urdf_test`:
+
+- upstream repository: https://github.com/pal-robotics/urdf_test.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## urdf_test (foxy) - 2.0.0-2
 
 The packages in the `urdf_test` repository were released into the `foxy` distro by running `/usr/local/bin/bloom-release --rosdistro foxy --track foxy urdf_test` on `Wed, 16 Jun 2021 10:53:04 -0000`
