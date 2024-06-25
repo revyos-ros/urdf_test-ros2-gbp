@@ -2,6 +2,11 @@
 Changelog for package urdf_test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.3 (2024-03-20)
+------------------
+* Fix deprecated QOS warning
+* Contributors: David ter Kuile
+
 2.0.2 (2023-11-14)
 ------------------
 * Add website tag
