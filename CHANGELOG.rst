@@ -2,6 +2,11 @@
 Changelog for package urdf_test
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2024-10-16)
+------------------
+* Implement xacro test functions
+* Contributors: Mathias Lüdtke
+
 2.0.3 (2024-03-20)
 ------------------
 * Fix deprecated QOS warning
